@@ -84,7 +84,7 @@ An incomplete `tree` of academic projects:
 
 </li></ul>
 
-## Archive
+## Gallery
  ![First winter/snow in Pittsburgh, US (2023)](assets/images/bust.png)
 
 <!-- For aligning images -->
