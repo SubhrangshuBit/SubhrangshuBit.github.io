@@ -1,2 +1,2 @@
 # subhrangshubit.github.io
-A minimalist personal webpage
+Hi! This is the repo to my minimalist personal webpage.
