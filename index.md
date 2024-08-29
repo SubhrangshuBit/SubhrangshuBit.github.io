@@ -34,9 +34,8 @@ be happy to talk more on anything related:
 <summary>Topics of interest</summary>
 
 * Intersection of video and language understanding.
-* Representing different modalities of data as a graph.
-* Can we stop training to align embeddings from different foundation
-    models?
+* Are models capable of continually learning new tasks on videos?
+* Can we stop training to align embeddings from different off-the-shelf foundation models?
 </details>
 
 ------------------------------------------------------------------------
