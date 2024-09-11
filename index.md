@@ -13,6 +13,7 @@ I am a member of the [Kolachalama
 Laboratory](https://vkola-lab.github.io) working under the supervision
 of [Dr. Vijaya Kolachalama](https://www.bu.edu/cs/profiles/vkola/).
 
+<p>I go by "Subh", pronounced as "Shoobh".
 <nav>
     <a href="assets/docs/cv.pdf">
     <button>
