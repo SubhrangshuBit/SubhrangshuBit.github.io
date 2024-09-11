@@ -1,7 +1,7 @@
 ---
 title: Subhrangshu Bit
 subtitle: (he/him)
-office: 802, 665 Commonwealth Ave, Boston, MA-02215
+office: 901, 665 Commonwealth Ave, Boston, MA-02215
 date: Aug'24
 lang: en
 toc-title: Contents
