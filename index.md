@@ -43,7 +43,7 @@ be happy to talk more on anything related:
 
 ## News
 
-* <i class="fa fa-headphones" aria-hidden="true"></i> Jul\'24: [MedPodGPT](https://medpodgpt.org)![MedPodGPT_logo](assets/images/MedPodGPT.png){.inline-image}: An audio-augmented LLM is live!
+* <i class="fa fa-headphones" aria-hidden="true"></i> Jul\'24: [PODGPT](https://podgpt.org)![PodGPT_logo](assets/images/PODGPT.png){.inline-image}: An audio-augmented LLM is live!
 * <i class="fa fa-file-o" aria-hidden="true"></i> Jul\'24: Our work on audio-augmented large language model is on [medRxiv](https://doi.org/10.1101/2024.07.11.24310304).
 * <i class="fa fa-id-badge" aria-hidden="true"></i> Sep\'23: Started as a CS Ph.D. student at Boston University.
 
